@@ -1,3 +1,12 @@
+# Login Page 
+
+**Key Features:**
+
+- Simple and clean design with a user-friendly interface.
+- Input fields for username and password.
+- Validation of user input against mock credentials.
+- Displays an error message for invalid login attempts.
+- Provides a basic understanding of JavaScript's role in handling form submissions and validating user input.
 # Project Structure
 
 ### index.html
